@@ -1,0 +1,37 @@
+#Row {
+    background-color: rgb(73, 155, 73);
+    padding: 20px 0;
+}
+
+#ThuongHieu {
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    top: 6px;
+}
+
+Search {
+    padding: 0;
+}
+
+#head-left {
+    font-size: 15px;
+    color: #fff;
+}
+
+.bi-people {
+    margin-right: 10px;
+}
+
+.bi-cart {
+    margin-right: 5px;
+}
+
+enterButton:hover {
+    background-color: #fff;
+}
+
+:where(.css-dev-only-do-not-override-j9bb5n).ant-btn-primary {
+    background: rgb(8, 80, 8) !important;
+}

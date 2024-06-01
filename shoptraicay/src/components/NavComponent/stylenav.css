@@ -1,0 +1,16 @@
+#nav {
+    font-size: 18px;
+    top: 10px;
+}
+
+#nav .nav {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    font-weight: bold;
+}
+
+.nav {
+    --bs-nav-link-color: black;
+    --bs-nav-link-hover-color: rgba(0, 0, 0, 0.589);
+}
